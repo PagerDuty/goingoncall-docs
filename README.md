@@ -1,12 +1,12 @@
-# PagerDuty Going On Call Best Practices Guide
+# PagerDuty Best Practices for On-Call Teams Guide
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57a66052-97e1-4199-9631-fe3e696902d3/deploy-status)](https://app.netlify.com/sites/autoremediation-9ffcc6/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7c1acb1-b332-461c-a9bf-67920caa38de/deploy-status)](https://app.netlify.com/sites/oncall-practices-d415fc/deploys)
 
 This guide is a collection of resources from PagerDuty and others that is intended to help teams new to being on-call navigate the ins and outs of response. 
 
 You can view the documentation directly in this repository, or rendered as a website at https://goingoncall.pagerduty.com.
 
-[![PagerDuty Best Practices for On Call Teams](assets/img/screenshot.png)](https://goingoncall.pagerduty.com)
+[![PagerDuty Best Practices for On Call Teams](assets/img/screenshot.png)](https://goingoncall.pagerduty.com/assets/img/screenshot.png)
 
 ## Development
 We use [MkDocs](http://www.mkdocs.org/) to create a static site from this repository. For local development,

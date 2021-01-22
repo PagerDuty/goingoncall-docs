@@ -1,5 +1,5 @@
 // Node.js Lambda @ Edge
-// Adds security headers to static site hosted in CloudFront (postmortems.pagerduty.com)
+// Adds security headers to static site hosted in CloudFront (goingoncall.pagerduty.com)
 // https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-lambdaedge-and-amazon-cloudfront/
 
 'use strict';
