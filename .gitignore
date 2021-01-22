@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+.AppleDouble
+.LSOverride
+public/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
