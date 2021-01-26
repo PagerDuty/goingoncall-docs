@@ -26,7 +26,7 @@ It’s important to help responders manage their time well during their on-call 
 - When a responder is already engaged with an incident, additional and/or unrelated incidents should fall to other members of the team
 - If a responder has burned out during a shift, have a process for someone else on the team to help them pick up the part of, or the entire shift so they can sleep, eat, etc.
 
-It’s easy for some responders—especially if they are new to being on call—to feel obligated to solve all problems at any cost to themselves. This behavior won’t help your team in the long run.Folks can easily experience burn out and resentment. Additionally, it is important to remember that people are human, while there is the expectation an on-call responder be available to answer pages, life happens. Cell phones fall in pools, the internet goes out, dinners happen. Sometimes an alert gets missed, which is why there are escalation policies, because there is no expectation that a responder will be the first to answer every single page, every single time. 
+It’s easy for some responders—especially if they are new to being on call—to feel obligated to solve all problems at any cost to themselves. This behavior won’t help your team in the long run. Folks can easily experience burn out and resentment. Additionally, it is important to remember that people are human, while there is the expectation an on-call responder be available to answer pages, life happens. Cell phones fall in pools, the internet goes out, dinners happen. Sometimes an alert gets missed, which is why there are escalation policies, because there is no expectation that a responder will be the first to answer every single page, every single time. 
 
 
 ## Handoffs
