@@ -20,8 +20,6 @@ It’s possible that not every service your team works on needs to have a full-c
 
 !!! tip
 		For more on SLA, SLO, and SLI, check out [this blog post](https://www.pagerduty.com/blog/best-practices-service-monitoring/).
-
-!!! tip
 		For an example, PagerDuty’s SLA is published [here](https://www.pagerduty.com/standard-service-level-agreement/).
 
 When you think about the services your team owns, be pragmatic, but also be ferocious about taking on responsibility for the things you are responsible for and the things that matter—you don’t have to be on-call for absolutely everything. 
