@@ -44,7 +44,7 @@ This guide is a resource for individuals, managers, and teams to use when evalua
 
 ### Recommendations for Managers
 
-- [Ettiquette and Setting Expectations](/managers/etiquette-and-setting-expectations)
+- [Ettiquette and Setting Expectations](/managers/#etiquette-and-setting-expectations)
 	- [Humane On-Call](/managers/#humane-on-call)
 	- [Team Participation](/managers/#team-participation)
 	- [Attrition](/managers/#attrition)
