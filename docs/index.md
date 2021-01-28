@@ -33,7 +33,7 @@ This guide is a resource for individuals, managers, and teams to use when evalua
 - [Responsibilities](/people/#responsibilities)
 - [Not Responsibilities](/people/#not-responsibilities)
 - [Handoffs](/people/#handoffs)
-- [On-Call and Life](/people/on-call-and-life)
+- [On-Call and Life](/people/#on-call-and-life)
 
 ### Building an On-Call Culture
 
