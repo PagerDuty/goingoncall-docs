@@ -26,7 +26,7 @@ extra:
   author:
     github: 'PagerDuty'
     twitter: 'PagerDuty'
-
+  short_name: 'Best Practices for On Call Teams'
 # Dev URL
 dev_addr: '0.0.0.0:8080'
 
