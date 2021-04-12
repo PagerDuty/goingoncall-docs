@@ -46,7 +46,7 @@ Your team will likely find other key areas that are useful to share in shift han
 ## On-Call and Life
 For teams and individuals new to going on call, the mentality shift can be hard. One of the critical considerations is work-life balance when going on call. As previously mentioned, remembering that people are human is key to avoiding burnout and maintaining a people-centric culture. Things to consider with on-call life are:
 
-- Vacations and emergencies. When life happens, use the override function on schedules when you have something planned or unplanned occur (to learn more about how to user PagerDuty overrides [see this page](https://support.pagerduty.com/docs/editing-schedules)).
+- Vacations and emergencies. When life happens, use the override function on schedules when you have something planned or unplanned occur (to learn more about how to use PagerDuty overrides [see this page](https://support.pagerduty.com/docs/editing-schedules)).
 - Keep on-call schedules consistent. Think through how long the on-call rotation is; 3 days, 5 days, 7 days or 8, 12, or 24 hours? At PagerDuty, we recommend handing shifts off on Mondays to recap the week with minimal confusion and ensure shifts aren’t switched over the weekend. 
 - Teams should work to find what is best for them and their applications. For best practices on shift lengths on effective shift scheduling, check out this [article](https://community.pagerduty.com/forum/t/scheduling-effective-start-end-practices-for-on-call-scheduling/1677). 
 
