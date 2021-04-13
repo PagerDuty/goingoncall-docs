@@ -1,25 +1,25 @@
-![On-Call Best Practices](../assets/img/headers/OnCall-Home.png)
+![On-Call Best Practices](/assets/images/headers/OnCall-Home.png)
 
-The always-on, always-available expectations of digital services have increased the requirements of technical teams to provide response and readiness around the clock. For teams new to this concept, introducing on-call ownership can be difficult and complex. On-call management is key to PagerDuty’s service, but the non-technical aspects are important for teams to consider. 
+The always-on, always-available expectations of digital services have increased the requirements of technical teams to provide response and readiness around the clock. For teams new to this concept, introducing on-call ownership can be difficult and complex. On-call management is key to PagerDuty’s service, but the non-technical aspects are important for teams to consider.
 
 While on-call allows organizations to better meet increasing customer expectations, there are also potential impacts to the wellbeing of your on-call engineers. Change can always cause stress, but with on call responsibilities, engineers worry about being woken up in the middle of the night in addition to their normal workloads. Managers should keep an eye on responders for burnout. Meeting concerns head on, while you are setting up your on call practice, will help you manage the overall health of the team. This guide will give you some suggestions for setting good guidelines with your teams.
 
-In the most basic sense, on-call describes a state in which some employees are available to be notified for unplanned incidents, alerts, and issues for some number of systems, services, or applications. In the very early days of commercial internet—before many folks had access to reliable mobile data services—companies would provide their employees with a text-based, one-way, or two-way pager so they could be available around the clock in case they were needed. 
+In the most basic sense, on-call describes a state in which some employees are available to be notified for unplanned incidents, alerts, and issues for some number of systems, services, or applications. In the very early days of commercial internet—before many folks had access to reliable mobile data services—companies would provide their employees with a text-based, one-way, or two-way pager so they could be available around the clock in case they were needed.
 
-That’s where PagerDuty gets its [name](https://www.pagerduty.com/blog/decade-of-duty/). 
+That’s where PagerDuty gets its [name](https://www.pagerduty.com/blog/decade-of-duty/).
 
 ## Who is This For?
 
 This guide is a resource for individuals, managers, and teams to use when evaluating or making the shift to an on-call culture.
 
-!!! tip 
+!!! tip
 		For a fast overview of on-call, there is a short but broad introduction in the [Full Service Ownership Ops Guide](https://ownership.pagerduty.com).
 
 ## What is Covered?
 
 ### Introduction
 
-- [Why Have On-Call?](/intro/#why-have-on-call) 
+- [Why Have On-Call?](/intro/#why-have-on-call)
 - [Who Goes On Call?](/intro/#who-goes-on-call)
 
 ### Technical Preparations

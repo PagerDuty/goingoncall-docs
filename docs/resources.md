@@ -1,4 +1,4 @@
-![Additional Resources](../assets/img/headers/OnCall-Resources.png)
+![Additional Resources](/assets/images/headers/OnCall-Resources.png)
 
 These other [Ops Guides](https://pagerduty.com/ops-guides) in our library will also be helpful if you are interested in learning more about any of the following topic:
 
@@ -8,7 +8,7 @@ These other [Ops Guides](https://pagerduty.com/ops-guides) in our library will a
 
 ## PagerDuty Resources
 - For step-by-step instructions for setting up your team in [PagerDuty](https://pagerduty.com), see this [On-Call Rotations and Schedules](https://www.pagerduty.com/resources/learn/call-rotations-schedules/) resources page
- 
+
 - How to [Get Notified Before You Go On-Call in PagerDuty](https://www.pagerduty.com/blog/ochon-update/) so you never miss a shift!
 Sign up for our [e-book](https://www.pagerduty.com/resources/ebook/on-call-guide/)
 
@@ -16,7 +16,7 @@ Sign up for our [e-book](https://www.pagerduty.com/resources/ebook/on-call-guide
 
 - For in depth training check out [PagerDuty University](https://www.pagerduty.com/university/)
 
-- The [PagerDuty Community](https://community.pagerduty.com/forum/) is a great way to connect with other folks, ask questions, find answers, hear about upcoming events, and much, much more! 
+- The [PagerDuty Community](https://community.pagerduty.com/forum/) is a great way to connect with other folks, ask questions, find answers, hear about upcoming events, and much, much more!
 
 ## Industry Resources
 

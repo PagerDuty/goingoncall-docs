@@ -1,10 +1,10 @@
-![Implementation Suggestions](../assets/img/headers/OnCall-Implementation.png)
+![Implementation Suggestions](/assets/images/headers/OnCall-Implementation.png)
 
 If you and your team are completely new to on-call, here are some suggestions of tasks to help guide you in the process.
 
 ## Take Stock of Your Alerts
 
-- Manage Alert Fatigue! 
+- Manage Alert Fatigue!
 	- [8 Ways to Reduce Alert Fatigue](https://www.pagerduty.com/blog/reduce-alert-fatigue/)
 	- [Cutting Alert Fatigue in Modern Ops](https://www.pagerduty.com/blog/cutting-alert-fatigue-modern-ops/)
 - Make sure all of your alerts are actionable.
