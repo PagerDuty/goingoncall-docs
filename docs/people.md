@@ -41,7 +41,7 @@ Other items that might be helpful in your handoffs:
 - Any TODO action items to make documentation, context, alerting, or anything for the next person on call better.
 - Staff changes on other key teams. For example, if your team regularly reaches out to Ed in database engineering, but Ed is leaving your organization.
 
-Your team will likely find other key areas that are useful to share in shift handoffs. At PagerDuty we recommend the second layer of your escalation policy be the person from the prior week as they should still have context from any previous incidents.  You can learn more about PagerDuty recommendations on escalation policies [here] (https://support.pagerduty.com/docs/escalation-policies-and-schedules).
+Your team will likely find other key areas that are useful to share in shift handoffs. At PagerDuty we recommend the second layer of your escalation policy be the person from the prior week as they should still have context from any previous incidents.  You can learn more about PagerDuty recommendations on escalation policies [here](https://support.pagerduty.com/docs/escalation-policies-and-schedules).
 
 ## On-Call and Life
 For teams and individuals new to going on call, the mentality shift can be hard. One of the critical considerations is work-life balance when going on call. As previously mentioned, remembering that people are human is key to avoiding burnout and maintaining a people-centric culture. Things to consider with on-call life are:
