@@ -22,6 +22,10 @@ Sign up for our [e-book](https://www.pagerduty.com/resources/ebook/on-call-guide
 
 - *Increment*, a magazine published by [Stripe](https://stripe.com) published an issue about on-call as their [very first issue](https://increment.com/on-call/)
 
+- An article by Ernestas Narmontas detailing good practices for [leaving on-call better than you found it](https://ernestas.me/on-call-leave-it-better-than-you-found-it).
+
+- An *Ask Miss O11y* post from [Honeycomb](https://www.honeycomb.io) about [going on call for the first time](https://www.honeycomb.io/blog/going-on-call-first-time/).
+
 - Alice Goldfuss’s open source [on-call handbook](https://github.com/alicegoldfuss/oncall-handbook)
 
 - [New Relic](https://newrelic.com) shares some of their [best practices for on-call, as well as their incident response workflows](https://blog.newrelic.com/engineering/on-call-and-incident-response-new-relic-best-practices/)
