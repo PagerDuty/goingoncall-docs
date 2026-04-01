@@ -46,7 +46,7 @@ Managing burnout on your team is a key to successfully handling on-call duties a
 ### Monitoring Team Health
 Replacing folks is expensive. Keep tabs on your team and how they’re doing. New on-call duties can also cause strife with family members who weren’t expecting to share their homes with noisy alerts in the middle of the night, so managing a humane on-call schedule and prioritizing permanent fixes for alerting issues is important. Maintaining the team you have in a healthy way is less disruptive and will be less expensive than hiring to replace team members.
 
-Knowing what to keep tabs on with your team can vary, but PagerDuty’s Agile Leadership Team has posted their system [on our blog](https://www.pagerduty.com/blog/best-practices-health-checks/). This is a simple method that you can modify for your team’s needs.
+Knowing what to keep tabs on with your team can vary, and can be very specific to your organizational culture.
 
 ### Working on Systematic Improvement with Peers
 As we mentioned earlier, maintaining a humane on-call culture will go far to help with team health. Actively managing the issues and alerts, as well as setting appropriate priorities for incidents can reduce alert volumes for existing services over time. Maintaining appropriate, actionable alerts should become part of your development practice for all new services as well.
