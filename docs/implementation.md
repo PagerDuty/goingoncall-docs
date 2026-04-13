@@ -5,8 +5,8 @@ If you and your team are completely new to on-call, here are some suggestions of
 ## Take Stock of Your Alerts
 
 - Manage Alert Fatigue!
-	- [8 Ways to Reduce Alert Fatigue](https://www.pagerduty.com/blog/reduce-alert-fatigue/)
-	- [Cutting Alert Fatigue in Modern Ops](https://www.pagerduty.com/blog/cutting-alert-fatigue-modern-ops/)
+	- [Understanding Alert Fatigue & How to Prevent it](https://www.pagerduty.com/resources/digital-operations/learn/alert-fatigue/)
+	- Our [podcast episode on alert fatigue](https://www.pageittothelimit.com/alert-fatigue-with-boaz-barzel/) with Boaz Barzel
 - Make sure all of your alerts are actionable.
 - Verify that all alerts have documentation.
 - If any alerts indicate issues with external dependencies, liaise with your peers on those teams for shared responsibility.

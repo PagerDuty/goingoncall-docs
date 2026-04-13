@@ -16,14 +16,14 @@ Psychological safety and creating a blameless culture is a key indicator of high
 ## Onboarding
 Successful on-call teams spend the necessary time onboarding new team members. Give folks the time to learn the new systems, understand the dynamics of the team, and know who to call before throwing them in an on-call rotation. Shadow on-call rotations are an easy way to get new team members spun up on services they will be on call for. These rotations allow for people to listen into incident calls without having the responsibility of being the subject matter expert. Shadow responders receive the alerts and join the calls in a listen only mode. Once the new member has shadowed a few calls, they will be more confident in acting as a responder. The shadowee should then schedule time with the responder they shadowed after the incident call to answer any questions.
 
-Creating a shadow schedule is a fairly simple process for more information check out this [How To](https://community.pagerduty.com/forum/t/creating-a-shadow-schedule-to-onboard-new-employees/1647).
+Creating a shadow schedule is a fairly simple process for more information check out our [KB page](https://support.pagerduty.com/main/docs/escalation-policies-and-schedules#on-call-shadowing).
 
 Beyond shadowing, make sure new users have contact methods (SMS, email, push, and call notifications) set up and staggered so they don’t miss alerts. For more information on how to set these up in PagerDuty, check out this [knowledge base information](https://support.pagerduty.com/docs/quick-start-guide).
 
 ## Iteration and Improvement
 For many teams that have incident response duties, some kind of metric like MTTA (mean time to acknowledge) or MTTR (mean time to resolve) is tracked to determine how fast the team is handling incidents.
 
-MTTA and MTTR are blunt instruments when taken at face value, and may not reflect exactly what is most important in your response plan. Neither metric differentiates among incidents of differing priority or importance. Your team may want to break down metrics based on priority, severity, or other categories. For a more detailed discussion of working with these metrics, see [this How To](https://community.pagerduty.com/forum/t/reporting-making-your-metrics-meaningful/1549) and [this Knowledge Base article](https://support.pagerduty.com/docs/reporting).
+MTTA and MTTR are blunt instruments when taken at face value, and may not reflect exactly what is most important in your response plan. Neither metric differentiates among incidents of differing priority or importance. Your team may want to break down metrics based on priority, severity, or other categories. For a more detailed discussion of working with these metrics, [this Knowledge Base article](https://support.pagerduty.com/docs/reporting).
 
 !!! tip
 		MTTA and MTTR are also discussed in the [Full Service Ownership Ops Guide]( https://ownership.pagerduty.com/digital_transformation/)
